@@ -4,3 +4,4 @@ Writes one joke about AI coding agents to $MAKEFUN_OUTPUT_DIR/entry.txt (or /out
 
 Deterministic: two runs write identical bytes. No network, no model calls.
 Python 3.13 standard library only.
+Entry for make.fun bounty ai-joke-03.
